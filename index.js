@@ -9,7 +9,7 @@ const cors = require('cors')
 
 const PORT = process.env.PORT || 5000
 
-app.use(cors())
+app.use(cors({ origin: "http://localhost:3000", optionsSuccessStatus: 200 }))
 app.use(express.json())
 
 app.ws('/', (ws, req) => {

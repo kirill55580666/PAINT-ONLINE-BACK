@@ -12,6 +12,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -44,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1726130193061</updated>
       <workItem from="1726130194140" duration="62000" />
-      <workItem from="1726130307965" duration="632000" />
+      <workItem from="1726130307965" duration="2950000" />
     </task>
     <servers />
   </component>
@@ -56,7 +57,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
